@@ -18,7 +18,7 @@
     	
     	
     	<mule.runtime.community>true</mule.runtime.community>
-    	<mule.home>D:/Vel/Apps/mule-standalone-4.1.1</mule.home>
+    	<mule.home>/opt/mule</mule.home>
     	
 		<anypoint.username>${env.ANYPOINT_USERNAME}</anypoint.username>
 		<anypoint.password>${env.ANYPOINT_PASSWORD}</anypoint.password>
