@@ -25,6 +25,7 @@
 		<cloundhub.env>Development</cloundhub.env>
 		<anypoint.uri>https://anypoint.mulesoft.com</anypoint.uri>
 		<arm.target.name></arm.target.name>
+	        <cloudhub.workerType>Micro</cloudhub.workerType>
 		
 		<!-- One of: server, serverGroup, cluster -->
 		<arm.target.type>server</arm.target.type>
